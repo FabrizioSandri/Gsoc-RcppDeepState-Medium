@@ -5,6 +5,7 @@ This package can be used to perfmorm a simple CI task : test the `dijkstraSparse
 
 ## Usage 
 This package tests the execution of the Dijkstra algorithm on the capital cities graph plotted in the following picture, by calculating the distance vector from a specific soruce node.
+
 ![Cities](https://i.postimg.cc/zDpZXg4F/graph.png)
 
 Inputs available
